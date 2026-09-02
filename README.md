@@ -41,9 +41,9 @@ Git 履歴を見れば分かることは書きません。線引きは「決定�
 ## 関連するスキル
 
 このスキルは、どの文書が何を持ち、いつ消すかを扱います。
-決まった内容をどう書くかは [japanese-practical-writing](https://github.com/libratechw/japanese-practical-writing) が扱います。
+決まった内容をどう書くかは [japanese-technical-writing](https://github.com/libratechw/japanese-technical-writing) が扱います。
 
-- [japanese-practical-writing](https://github.com/libratechw/japanese-practical-writing) — 日本語実用文の書き方。順序、命名、強調、図表の選び方
+- [japanese-technical-writing](https://github.com/libratechw/japanese-technical-writing) — 日本語実用文の書き方。順序、命名、強調、図表の選び方
 - [design-review](https://github.com/libratechw/design-review) — 設計と実装のレビュー基準
 
 ## 貢献
