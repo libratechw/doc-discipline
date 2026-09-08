@@ -26,9 +26,9 @@ README、`docs/`、仕様書、コード内のコメントを対象とします�
 
 ## 関連するスキル
 
-`design-review` と併用する場合、契約・品質・設計や検証の妥当性はそちらで判断し、
-このスキルでは、その契約・理由・根拠を文書が正しく伝え、維持できるかを確認します。
-決まった内容をどう書くかは `japanese-technical-writing` が扱います。
+このスキルは単独で使えます。文書の正本、保存・更新、コードとの整合を扱います。
+
+契約・品質・設計や検証の妥当性まで判断する場合は `design-review`、日本語の構成・表現を整える場合は `japanese-technical-writing` を併用してください。
 
 - [japanese-technical-writing](https://github.com/libratechw/japanese-technical-writing) — 日本語実用文の書き方。順序、命名、強調、図表の選び方
 - [design-review](https://github.com/libratechw/design-review) — 設計と実装のレビュー基準
